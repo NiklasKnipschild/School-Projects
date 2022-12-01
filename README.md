@@ -34,3 +34,10 @@ Lab3A: Is a caluactor that calucates the interest you would incur on a loan base
 Lab3B: Calucates GPA based upon user input
 
 Lab3C: Takes the number of pennies, nickels, dimes, and quarters and tells you how many dollars and cents you have based upon user input.
+
+Lab4A: Uses if, else if statements to show the letter grade a student would earn based upon user input
+
+Lab4B: Is a little program that tells you what a student should do based upon the day.
+
+Lab4C: Is a simple calucator, with a simple menu, that will give you the inverse of a number, reciprocal of a number, the square of a number, and the cube of a number. 
+
