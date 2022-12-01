@@ -19,7 +19,14 @@ Assignment3A: Is one of my first attempts at a story based game. The input the u
 
 Assignment3B: Tells the user what belt and grade they are.
 
-Assignment3C: Is a simple program that tells a user if their mobile device is compatiable with the software the user would be attempting to install. 
+Assignment3C: Is a simple program that tells a user if their mobile device is compatiable with the software the user would be attempting to install.
+
+Assignment4A: collects an unlimited amount of userinput on their desired vacation destination and then based upon the users inputs it makes a decision on the vacation destination
+
+Assignment4B: Takes lab4A and expands on use by using a while loop to allow a user to use the program many times over. Also allows the user to exit the program. 
+
+Assignment4C: Demostrates a simple way to create an animation inside of a console.
+
 Labs:
 
 Lab1A: is a simple example of printing out strings
@@ -57,3 +64,9 @@ Lab6A: A user inputs 10 numbers and the program will tell you what number if the
 Lab6B: A user inputs a number between 1 and 100 and the computer will make guesses at which number and tell you how many tries it took to guess your number.
 
 Lab6C: Is a simple program the minimics a bank account where a user can deposit, and withdraw money with error checking built in.
+
+Lab7A: Prints out an image of * based upon the user input
+
+Lab7B: Prints out an image of * based upon the user input
+
+Lab7C: Prints out an image of * and spaces based upon the user input
