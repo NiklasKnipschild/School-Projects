@@ -27,6 +27,16 @@ Assignment4B: Takes lab4A and expands on use by using a while loop to allow a us
 
 Assignment4C: Demostrates a simple way to create an animation inside of a console.
 
+Assignment5A: Creates a top 5 friend lists and puts them in an array
+
+Assignment5B: Tells you what your sign is based upon your birthday
+
+Assignment6A: Implementing sorting with methods
+
+Assignment6B: Using methods to determine data type from user input
+
+Assignment6C: Connect four game!
+
 Labs:
 
 Lab1A: is a simple example of printing out strings
@@ -70,3 +80,25 @@ Lab7A: Prints out an image of * based upon the user input
 Lab7B: Prints out an image of * based upon the user input
 
 Lab7C: Prints out an image of * and spaces based upon the user input
+
+Lab8A: Displays two different 1D Arrays
+
+Lab8B: Prints out 2D Array
+
+Lab8C: Converts 2D Array into 1D Array
+
+Lab9A: Example of liner search function
+
+Lab9B: Example of binary search function
+
+Lab10A & Lab10B: Example of using methods
+
+Lab11A: Using functions to compare strings
+
+Lab11B: Simple password protocol checker (not secure, not meant to be used in real world, everything is in plain text)
+
+Lab12A & 12B: Are examples of object oriented programming implementing morethen 1 file. Dog.java belongs with Lab12A.java and Chair.java belongs with 12B.java
+
+Lab13A: Is expanding on object oriented programming and BuildingBlueprint.java belongs with Lab13A.java
+
+Thank you!
