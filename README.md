@@ -1,5 +1,5 @@
 # School-Projects
-Those are school assignments I completed in my 1321L class. I am merely showing them as an example of my growth as a programmer from the very basics, to more complicated programs. Many of those programs serve no purpose outside of demostrating a new mastery of a new skill set. 
+Those are school assignments I completed in my 1321L class. I am merely showing them as an example of my growth as a programmer from the very basics, to more complicated programs. Many of those programs serve no purpose outside of demonstrating a new mastery of a new skill set.
 
 Assignments:
 
